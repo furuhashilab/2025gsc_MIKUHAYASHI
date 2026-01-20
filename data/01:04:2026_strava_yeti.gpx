@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <metadata>
+  <name>夕方のアルペンスキー</name>
+  <author>
+   <name>巌 林</name>
+   <link href="https://www.strava.com/athletes/197152060"/>
+  </author>
+  <copyright author="OpenStreetMap contributors">
+   <year>2020</year>
+   <license>https://www.openstreetmap.org/copyright</license>
+  </copyright>
+  <link href="https://www.strava.com/routes/3442701036011326072"/>
+ </metadata>
+ <trk>
+  <name>夕方のアルペンスキー</name>
+  <link href="https://www.strava.com/routes/3442701036011326072"/>
+  <type>running</type>
+  <trkseg>
+   <trkpt lat="35.30064" lon="138.76938">
+    <ele>1424.41</ele>
+   </trkpt>
+   <trkpt lat="35.3006" lon="138.76974">
+    <ele>1420.93</ele>
+   </trkpt>
+   <trkpt lat="35.30062" lon="138.77031000000002">
+    <ele>1415.78</ele>
+   </trkpt>
+   <trkpt lat="35.30062" lon="138.77131">
+    <ele>1405.45</ele>
+   </trkpt>
+   <trkpt lat="35.30071" lon="138.77171">
+    <ele>1401.07</ele>
+   </trkpt>
+   <trkpt lat="35.30097" lon="138.77263000000002">
+    <ele>1392.21</ele>
+   </trkpt>
+   <trkpt lat="35.30102" lon="138.77301">
+    <ele>1387.24</ele>
+   </trkpt>
+   <trkpt lat="35.301010000000005" lon="138.77315000000002">
+    <ele>1385.88</ele>
+   </trkpt>
+   <trkpt lat="35.30096" lon="138.77355">
+    <ele>1382.03</ele>
+   </trkpt>
+   <trkpt lat="35.30086" lon="138.77393">
+    <ele>1378.48</ele>
+   </trkpt>
+   <trkpt lat="35.3008" lon="138.77433000000002">
+    <ele>1372.93</ele>
+   </trkpt>
+   <trkpt lat="35.300540000000005" lon="138.77492">
+    <ele>1359.72</ele>
+   </trkpt>
+   <trkpt lat="35.300580000000004" lon="138.77513000000002">
+    <ele>1354.99</ele>
+   </trkpt>
+   <trkpt lat="35.30031" lon="138.77536">
+    <ele>1351.19</ele>
+   </trkpt>
+   <trkpt lat="35.300200000000004" lon="138.77536">
+    <ele>1350.53</ele>
+   </trkpt>
+   <trkpt lat="35.30012" lon="138.77532000000002">
+    <ele>1350.0</ele>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
