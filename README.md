@@ -1,12 +1,11 @@
 # 2025gsc_MIKUHAYASHI
-### 卒論発表用: 
+2025年度　卒論  
+スノーボード滑走記録アプリの比較  
+A Comparative Analysis of Snowboarding Activity Tracking Applications
 
-青山学院大学 地球社会共生学部 地球社会共生学科
-
-林未来/ Miku Hayashi
-
-学生番号 1A122156
-
+青山学院大学 地球社会共生学部 地球社会共生学科  
+林未来/ Miku Hayashi  
+学生番号 1A122156  
 指導教員 古橋大地 教授
 
 ©︎Furuhashi Laboratory/Miku Hayashi, CC BY 4.0
