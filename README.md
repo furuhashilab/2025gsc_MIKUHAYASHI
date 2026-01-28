@@ -26,17 +26,17 @@ yukiyama、Snowayに関しては、アプリ上に滑走データをgpxファイ
 
 ## Results
 本研究では、Stravaを基準として、他の各アプリと同時に滑走記録を取得し、記録内容の差異を比較した。  
-取得された[滑走データ](https://github.com/furuhashilab/2025gsc_MIKUHAYASHI/tree/8c4e8b25813ff81541da30a2ff0a165863d0d906/data)（GPXファイルおよび画像）は、すべて本レポジトリ内のファイルにまとめてある。  
+取得された[滑走データ](https://github.com/furuhashilab/2025gsc_MIKUHAYASHI/tree/8c4e8b25813ff81541da30a2ff0a165863d0d906/data)（GPXファイルおよび画像）は、すべて本レポジトリ内のファイルにまとめた。  
 
-各滑走記録データを、gpxファイルとして書き出し、QGISにアップロードし、比較を行った。データを比較する際にQGIS上で、OpenStreetMapを表示させ、使用した。これらのデータをQGIS・（アプリ）上で比較した結果、Stravaは一部記録に不具合が見られたものの、他アプリと比べて滑走距離や軌跡を精密に記録できていることが確認された。  
-まず、海外企業が開発したアプリを使用して記録を行った。  
+まず、海外企業が開発したアプリを使用して記録した、各滑走記録データを、gpxファイルとして書き出し、QGISにアップロードし、比較を行った。データを比較する際にQGIS上で、OpenStreetMapを表示させ、使用した。これらのデータをQGIS・（アプリ）上で比較した結果、Stravaは一部記録に不具合が見られたものの、他アプリと比べて滑走距離や軌跡を精密に記録できていることが確認された。  
 
 以下の画像は、Ski TracksとStravaで記録を行ったデータをQGIS上で比較したものである。
 <img width="764" height="717" alt="あ" src="https://github.com/user-attachments/assets/1794d250-6b4e-424d-9330-c8fdda0221c7" />  
 (紫：Ski Tracks、黄：Strava)  
 
 上の画像から、各アプリの滑走データには多少の差異が確認できるが、拡大してみると、Ski Tracksの滑走データは大まかな軌跡として記録されていることがわかる。  
-<img width="745" height="682" alt="Screenshot 2026-01-27 at 19 44 04" src="https://github.com/user-attachments/assets/b8fa515c-9a6a-4dfc-97a3-4c5cf5cddb53" />
+<img width="745" height="682" alt="Screenshot 2026-01-27 at 19 44 04" src="https://github.com/user-attachments/assets/b8fa515c-9a6a-4dfc-97a3-4c5cf5cddb53" />  
+
 
 日本のアプリに関しては、SnowayはStravaの記録とほぼ一致しており、滑走距離や軌跡に大きな差は見られなかった。一方、YAMAPでは、Stravaとの比較において明確な一致・不一致の傾向は確認できず、評価が分かれる結果となった。yukiyamaについては、記録の取得において一部ラグが発生するケースがあり、記録の反映が正確ではなかったが、その発生原因は特定できなかった。
 
