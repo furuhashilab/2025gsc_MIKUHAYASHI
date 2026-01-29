@@ -36,9 +36,11 @@ yukiyama、Snowayに関しては、アプリ上に滑走データをgpxファイ
 
 上の画像から、各アプリの滑走データには多少の差異が確認できるが、拡大してみると、Ski Tracksの滑走データは大まかな軌跡として記録されていることがわかる。  
 <img width="745" height="682" alt="Screenshot 2026-01-27 at 19 44 04" src="https://github.com/user-attachments/assets/b8fa515c-9a6a-4dfc-97a3-4c5cf5cddb53" />  
+
 研究を進めていく中で、〇〇件のラグが見られた。1件目は、2026年1月17日にSlopesとStravaで記録した際、Slopes上でラグが確認された。具体的には、実際とは異なる滑走記録が記録されていた。  
 <img width="770" height="666" alt="Screenshot 2026-01-29 at 15 42 58" src="https://github.com/user-attachments/assets/6040a748-da60-4a1e-ab2d-1370a170164a" />  
 （紫：Slopes、黄：Strava）  
+
 同日にSlopesを複数回使用したが、ラグが確認できたのはこの2回目の滑走時のみであった。また、同日にSki TracksとStravaで記録した際、Strava上で、記録開始地点が実際とは異なる位置で記録されるラグが確認された。今回のラグは、滑走途中で発生したラグではないため、Strava単体の記録開始地点の誤差の可能性も考慮したが、実際には移動していない場所に記録が残っている点、Strava上で記録されている開始地点と滑走開始地点にリフトが位置してない点、記録開始時刻がSki Tracksと一致している点から、Strava上で何らかの要因によりラグが発生したと考えられる。  
 <img width="761" height="702" alt="Screenshot 2026-01-29 at 16 07 48" src="https://github.com/user-attachments/assets/fc19ff21-a062-4a28-ad9b-37e87f4fdc63" />  
 （紫：Ski Tracks、黄：Strava）  
