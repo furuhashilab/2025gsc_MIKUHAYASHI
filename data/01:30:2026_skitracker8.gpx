@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.0" creator="Ski Tracker">
+	<trk>
+		<name>Jan 30, 2026 at 16:06:04</name>
+		<trkseg>
+			<trkpt lat="43.752617" lon="-79.431152">
+				<ele>157.821213</ele>
+				<time>2026-01-30T21:06:05Z</time>
+			</trkpt>
+			<trkpt lat="43.752778" lon="-79.431033">
+				<ele>158.698456</ele>
+				<time>2026-01-30T21:07:31Z</time>
+			</trkpt>
+			<trkpt lat="43.752922" lon="-79.430850">
+				<ele>157.716217</ele>
+				<time>2026-01-30T21:07:41Z</time>
+			</trkpt>
+			<trkpt lat="43.753042" lon="-79.430632">
+				<ele>155.519165</ele>
+				<time>2026-01-30T21:07:53Z</time>
+			</trkpt>
+			<trkpt lat="43.753122" lon="-79.430394">
+				<ele>154.578049</ele>
+				<time>2026-01-30T21:07:59Z</time>
+			</trkpt>
+			<trkpt lat="43.753291" lon="-79.430304">
+				<ele>154.305420</ele>
+				<time>2026-01-30T21:08:03Z</time>
+			</trkpt>
+			<trkpt lat="43.753355" lon="-79.430064">
+				<ele>153.082932</ele>
+				<time>2026-01-30T21:08:06Z</time>
+			</trkpt>
+			<trkpt lat="43.753495" lon="-79.429852">
+				<ele>152.458588</ele>
+				<time>2026-01-30T21:08:10Z</time>
+			</trkpt>
+			<trkpt lat="43.753627" lon="-79.429681">
+				<ele>152.417099</ele>
+				<time>2026-01-30T21:08:14Z</time>
+			</trkpt>
+			<trkpt lat="43.753746" lon="-79.429488">
+				<ele>160.753738</ele>
+				<time>2026-01-30T21:08:19Z</time>
+			</trkpt>
+			<trkpt lat="43.753864" lon="-79.429263">
+				<ele>161.096298</ele>
+				<time>2026-01-30T21:08:40Z</time>
+			</trkpt>
+			<trkpt lat="43.753949" lon="-79.429030">
+				<ele>163.037308</ele>
+				<time>2026-01-30T21:08:48Z</time>
+			</trkpt>
+			<trkpt lat="43.754000" lon="-79.428789">
+				<ele>162.476120</ele>
+				<time>2026-01-30T21:09:00Z</time>
+			</trkpt>
+			<trkpt lat="43.753944" lon="-79.428681">
+				<ele>162.630554</ele>
+				<time>2026-01-30T21:09:17Z</time>
+			</trkpt>
+			<trkpt lat="43.753855" lon="-79.428758">
+				<ele>162.852585</ele>
+				<time>2026-01-30T21:09:30Z</time>
+			</trkpt>
+			<trkpt lat="43.753772" lon="-79.428906">
+				<ele>162.998322</ele>
+				<time>2026-01-30T21:09:34Z</time>
+			</trkpt>
+			<trkpt lat="43.753651" lon="-79.429123">
+				<ele>163.861588</ele>
+				<time>2026-01-30T21:09:47Z</time>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx creator="SkiTracks 3.8.2" version="1.1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xmlns="http://www.topografix.com/GPX/1/1" 
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+xmlns:corecoders="http://www.corecoders.com/xmlschemas/GPX">
+<metadata>
+<link href="http://www.corecoders.com">
+<text>Core Coders Ltd</text>
+</link>
+<time>2026-01-30T23:16:12Z</time>
+<bounds maxlat="43.7539869" maxlon="-79.4286771" minlat="43.7527259" minlon="-79.4310381"/>
+<extensions>
+<corecoders:timezone>GMT-5</corecoders:timezone>
+</extensions>
+</metadata>
+<trk>
+<name>Day 3 - 2025/2026</name>
+<desc>North York Ski Center / Earl Bales Park</desc>
+<type>skiing</type>
+<trkseg>
+<trkpt lat="43.7527606" lon="-79.4310344"><ele>171.87</ele><time>2026-01-30T21:07:30Z</time></trkpt>
+<trkpt lat="43.7527903" lon="-79.4308684"><ele>170.02</ele><time>2026-01-30T21:07:34Z</time></trkpt>
+<trkpt lat="43.7528789" lon="-79.4308552"><ele>168.84</ele><time>2026-01-30T21:07:39Z</time></trkpt>
+<trkpt lat="43.7528933" lon="-79.4307423"><ele>167.77</ele><time>2026-01-30T21:07:44Z</time></trkpt>
+<trkpt lat="43.7529642" lon="-79.4306892"><ele>166.95</ele><time>2026-01-30T21:07:49Z</time></trkpt>
+<trkpt lat="43.7530301" lon="-79.4306938"><ele>166.33</ele><time>2026-01-30T21:07:52Z</time></trkpt>
+<trkpt lat="43.7530224" lon="-79.4305261"><ele>164.89</ele><time>2026-01-30T21:07:55Z</time></trkpt>
+<trkpt lat="43.7531557" lon="-79.4304759"><ele>162.43</ele><time>2026-01-30T21:07:58Z</time></trkpt>
+<trkpt lat="43.7531859" lon="-79.4302857"><ele>161.61</ele><time>2026-01-30T21:08:01Z</time></trkpt>
+<trkpt lat="43.7533007" lon="-79.4302033"><ele>159.84</ele><time>2026-01-30T21:08:04Z</time></trkpt>
+<trkpt lat="43.7534137" lon="-79.4300758"><ele>156.82</ele><time>2026-01-30T21:08:07Z</time></trkpt>
+<trkpt lat="43.7534947" lon="-79.4298522"><ele>155.47</ele><time>2026-01-30T21:08:10Z</time></trkpt>
+<trkpt lat="43.7535845" lon="-79.4297131"><ele>155.31</ele><time>2026-01-30T21:08:13Z</time></trkpt>
+<trkpt lat="43.7536765" lon="-79.4295983"><ele>155.16</ele><time>2026-01-30T21:08:16Z</time></trkpt>
+<trkpt lat="43.7537646" lon="-79.4294546"><ele>155.15</ele><time>2026-01-30T21:08:20Z</time></trkpt>
+<trkpt lat="43.7538279" lon="-79.4293350"><ele>155.29</ele><time>2026-01-30T21:08:32Z</time></trkpt>
+<trkpt lat="43.7538595" lon="-79.4292722"><ele>155.13</ele><time>2026-01-30T21:08:39Z</time></trkpt>
+<trkpt lat="43.7539053" lon="-79.4291693"><ele>154.71</ele><time>2026-01-30T21:08:43Z</time></trkpt>
+<trkpt lat="43.7539517" lon="-79.4290350"><ele>154.36</ele><time>2026-01-30T21:08:48Z</time></trkpt>
+<trkpt lat="43.7539836" lon="-79.4288928"><ele>154.34</ele><time>2026-01-30T21:08:54Z</time></trkpt>
+<trkpt lat="43.7539851" lon="-79.4288230"><ele>154.24</ele><time>2026-01-30T21:08:58Z</time></trkpt>
+<trkpt lat="43.7539740" lon="-79.4287582"><ele>153.79</ele><time>2026-01-30T21:09:03Z</time></trkpt>
+<trkpt lat="43.7539352" lon="-79.4287396"><ele>153.71</ele><time>2026-01-30T21:09:08Z</time></trkpt>
+<trkpt lat="43.7539365" lon="-79.4286838"><ele>153.52</ele><time>2026-01-30T21:09:17Z</time></trkpt>
+<trkpt lat="43.7538963" lon="-79.4286997"><ele>153.49</ele><time>2026-01-30T21:09:27Z</time></trkpt>
+<trkpt lat="43.7538442" lon="-79.4287857"><ele>153.60</ele><time>2026-01-30T21:09:31Z</time></trkpt>
+<trkpt lat="43.7537501" lon="-79.4289722"><ele>154.60</ele><time>2026-01-30T21:09:36Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.0" creator="Ski Tracker">
+	<trk>
+		<name>Jan 30, 2026 at 15:41:42</name>
+		<trkseg>
+			<trkpt lat="43.752642" lon="-79.431068">
+				<ele>169.222717</ele>
+				<time>2026-01-30T20:41:43Z</time>
+			</trkpt>
+			<trkpt lat="43.752702" lon="-79.430967">
+				<ele>159.834137</ele>
+				<time>2026-01-30T20:44:05Z</time>
+			</trkpt>
+			<trkpt lat="43.752673" lon="-79.430841">
+				<ele>159.699081</ele>
+				<time>2026-01-30T20:44:11Z</time>
+			</trkpt>
+			<trkpt lat="43.752658" lon="-79.430702">
+				<ele>159.537918</ele>
+				<time>2026-01-30T20:44:16Z</time>
+			</trkpt>
+			<trkpt lat="43.752748" lon="-79.430719">
+				<ele>159.290054</ele>
+				<time>2026-01-30T20:44:20Z</time>
+			</trkpt>
+			<trkpt lat="43.752757" lon="-79.430572">
+				<ele>158.552444</ele>
+				<time>2026-01-30T20:44:25Z</time>
+			</trkpt>
+			<trkpt lat="43.752737" lon="-79.430427">
+				<ele>158.083511</ele>
+				<time>2026-01-30T20:44:29Z</time>
+			</trkpt>
+			<trkpt lat="43.752829" lon="-79.430435">
+				<ele>156.915878</ele>
+				<time>2026-01-30T20:44:32Z</time>
+			</trkpt>
+			<trkpt lat="43.752862" lon="-79.430289">
+				<ele>156.075211</ele>
+				<time>2026-01-30T20:44:37Z</time>
+			</trkpt>
+			<trkpt lat="43.752953" lon="-79.430248">
+				<ele>155.520813</ele>
+				<time>2026-01-30T20:44:40Z</time>
+			</trkpt>
+			<trkpt lat="43.752919" lon="-79.430132">
+				<ele>155.210938</ele>
+				<time>2026-01-30T20:44:43Z</time>
+			</trkpt>
+			<trkpt lat="43.752957" lon="-79.430019">
+				<ele>155.031723</ele>
+				<time>2026-01-30T20:44:46Z</time>
+			</trkpt>
+			<trkpt lat="43.753001" lon="-79.429902">
+				<ele>155.379379</ele>
+				<time>2026-01-30T20:44:54Z</time>
+			</trkpt>
+			<trkpt lat="43.753090" lon="-79.429858">
+				<ele>159.956284</ele>
+				<time>2026-01-30T20:44:56Z</time>
+			</trkpt>
+			<trkpt lat="43.753178" lon="-79.429804">
+				<ele>159.962616</ele>
+				<time>2026-01-30T20:44:58Z</time>
+			</trkpt>
+			<trkpt lat="43.753265" lon="-79.429718">
+				<ele>159.771851</ele>
+				<time>2026-01-30T20:45:01Z</time>
+			</trkpt>
+			<trkpt lat="43.753359" lon="-79.429611">
+				<ele>159.867859</ele>
+				<time>2026-01-30T20:45:04Z</time>
+			</trkpt>
+			<trkpt lat="43.753458" lon="-79.429484">
+				<ele>162.392151</ele>
+				<time>2026-01-30T20:45:07Z</time>
+			</trkpt>
+			<trkpt lat="43.753548" lon="-79.429428">
+				<ele>162.189285</ele>
+				<time>2026-01-30T20:45:09Z</time>
+			</trkpt>
+			<trkpt lat="43.753618" lon="-79.429284">
+				<ele>161.915054</ele>
+				<time>2026-01-30T20:45:12Z</time>
+			</trkpt>
+			<trkpt lat="43.753681" lon="-79.429192">
+				<ele>161.723404</ele>
+				<time>2026-01-30T20:45:15Z</time>
+			</trkpt>
+			<trkpt lat="43.753748" lon="-79.429088">
+				<ele>164.229568</ele>
+				<time>2026-01-30T20:45:28Z</time>
+			</trkpt>
+			<trkpt lat="43.753817" lon="-79.429004">
+				<ele>164.456467</ele>
+				<time>2026-01-30T20:45:32Z</time>
+			</trkpt>
+			<trkpt lat="43.753887" lon="-79.428909">
+				<ele>163.634995</ele>
+				<time>2026-01-30T20:45:37Z</time>
+			</trkpt>
+			<trkpt lat="43.753936" lon="-79.428804">
+				<ele>163.536072</ele>
+				<time>2026-01-30T20:45:45Z</time>
+			</trkpt>
+			<trkpt lat="43.753846" lon="-79.428855">
+				<ele>163.672974</ele>
+				<time>2026-01-30T20:46:11Z</time>
+			</trkpt>
+			<trkpt lat="43.753781" lon="-79.428946">
+				<ele>163.958084</ele>
+				<time>2026-01-30T20:46:18Z</time>
+			</trkpt>
+			<trkpt lat="43.753698" lon="-79.429041">
+				<ele>164.400589</ele>
+				<time>2026-01-30T20:46:27Z</time>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
