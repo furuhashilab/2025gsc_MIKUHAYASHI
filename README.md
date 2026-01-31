@@ -17,7 +17,7 @@ A Comparative Analysis of Snowboarding Activity Tracking Applications
 
 ## Methods
 ### 1.計測
-比較対象とするアプリは、海外企業が開発したアプリと、日本企業が開発したアプリの2つに枠組みに分類し、比較を行った。グローバルのアプリとして、Strava(Strava, Inc)、SkiPal(MYSTIC MOBILE APPS LLC)、Ski Mountain Tracker(ExaMobile S.A.)、Ski Tracks(Core Coders Ltd)、Ski Buddy(Casper Riboe)の計5種類を使用した。日本のアプリとして、yukiyama(株式会社ユキヤマ)、Snoway(株式会社スノーウェイ)、YAMAP(YAMAP INC.)、ヤマレコ(YAMARECO INC.)の計4種類を使用し、合計8つのアプリを比較対象とした。滑走記録の計測に当たっては、各アプリを同一のスマートフォン上で同時にアプリを起動し、同一条件下で記録を行った。比較の基準となるアプリはStravaとし、Strava上で記録されたデータと、他の各アプリで記録されたデータを比較することで、記録内容に差異が生じるかを検証した。計測区間は、リフトを降りた地点から一本の滑走を終えるまでとし、リフト乗車中の移動は計測対象から除外した。また、一本ごとに記録を行った理由は、同一斜面を連続して滑走した場合、滑走軌跡や記録が重なり、各アプリ間での比較が困難になるためである。
+比較対象とするアプリは、海外企業が開発したアプリと、日本企業が開発したアプリの2つに枠組みに分類し、比較を行った。グローバルのアプリとして、Strava(Strava, Inc)、SkiPal(MYSTIC MOBILE APPS LLC)、Ski Mountain Tracker(ExaMobile S.A.)、Ski Tracks(Core Coders Ltd)、Ski Buddy(Casper Riboe)、Slopes:Ski&Snowboard(Breakpoint Studio LLC)の計6種類を使用した。日本のアプリとして、yukiyama(株式会社ユキヤマ)、Snoway(株式会社スノーウェイ)、YAMAP(YAMAP INC.)、ヤマレコ(YAMARECO INC.)の計4種類を使用し、合計8つのアプリを比較対象とした。滑走記録の計測に当たっては、各アプリを同一のスマートフォン上で同時にアプリを起動し、同一条件下で記録を行った。比較の基準となるアプリはStravaとし、Strava上で記録されたデータと、他の各アプリで記録されたデータを比較することで、記録内容に差異が生じるかを検証した。計測区間は、リフトを降りた地点から一本の滑走を終えるまでとし、リフト乗車中の移動は計測対象から除外した。また、一本ごとに記録を行った理由は、同一斜面を連続して滑走した場合、滑走軌跡や記録が重なり、各アプリ間での比較が困難になるためである。
 ### 2.比較
 取得した滑走記録データは、各アプリ上でgpxファイルとしてデータを書き出し、QGIS上にに取り込み、各アプリの滑走軌跡を同一地図上(OpenStreetMap)に表示した上で、ルート形状や位置のずれ、距離の差異を比較した。これにより、各アプリ間における記録精度の違いを評価した。  
 yukiyama、Snowayに関しては、アプリ上に滑走データをgpxファイルとして書き出せる機能がないため、画像として書き出し、〇〇アプリを使用し、比較した。
