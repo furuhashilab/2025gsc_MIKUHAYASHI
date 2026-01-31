@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" creator="Yamareco iOS 8.33 - www.yamareco.com">
+<trk><name>track</name><number>1</number><trkseg>
+<trkpt lat="43.75264171586054" lon="-79.43106756503073"><ele>175</ele><time>2026-01-30T20:41:54Z</time></trkpt>
+<trkpt lat="43.75277391829208" lon="-79.43061169269072"><ele>168</ele><time>2026-01-30T20:44:24Z</time></trkpt>
+<trkpt lat="43.75295255691023" lon="-79.42999694448754"><ele>160</ele><time>2026-01-30T20:44:47Z</time></trkpt>
+<trkpt lat="43.75366385236085" lon="-79.42921535783758"><ele>155</ele><time>2026-01-30T20:45:14Z</time></trkpt>
+<trkpt lat="43.753936405394384" lon="-79.42880418250147"><ele>153</ele><time>2026-01-30T20:45:45Z</time></trkpt>
+<trkpt lat="43.753659255614885" lon="-79.42909434564808"><ele>156</ele><time>2026-01-30T20:46:31Z</time></trkpt>
+<trkpt lat="43.75351897164835" lon="-79.42929903077169"><ele>157</ele><time>2026-01-30T20:46:47Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>
