@@ -37,7 +37,11 @@ yukiyama、Snowayに関しては、アプリ上に滑走データをgpxファイ
 上の画像から、各アプリの滑走データには多少の差異が確認できるが、拡大してみると、Ski Tracksの滑走データは大まかな軌跡として記録されていることがわかる。  
 <img width="745" height="682" alt="Screenshot 2026-01-27 at 19 44 04" src="https://github.com/user-attachments/assets/b8fa515c-9a6a-4dfc-97a3-4c5cf5cddb53" />  
 
-研究を進めていく中で、〇〇件のラグが見られた。1件目は、2026年1月17日にSlopesとStravaで記録した際、Slopes上でラグが確認された。具体的には、実際とは異なる滑走記録が記録されていた。  
+今回の研究の中で、Stravaとほぼ同じ記録が取得できたのは、Ski buddyで、滑走記録の精度も非常に高く、ラグも見られなかった。　　
+<img width="768" height="622" alt="Screenshot 2026-01-31 at 22 59 40" src="https://github.com/user-attachments/assets/7fadfa95-753d-4fab-a5ed-a5ff6833c74f" />  
+（黒：Ski buddy、黄：Strava）
+
+研究を進めていく中で、〇〇件のラグが確認された。1件目は、2026年1月17日にSlopesとStravaで記録した際、Slopes上でラグが確認された。具体的には、実際とは異なる滑走記録が記録されていた。  
 <img width="770" height="666" alt="Screenshot 2026-01-29 at 15 42 58" src="https://github.com/user-attachments/assets/6040a748-da60-4a1e-ab2d-1370a170164a" />  
 （紫：Slopes、黄：Strava）  
 
@@ -46,8 +50,9 @@ yukiyama、Snowayに関しては、アプリ上に滑走データをgpxファイ
 （紫：Ski Tracks、黄：Strava）  
 
 日本のアプリである、yukiyama、Snowayは、アプリの機能に滑走データをgpxファイルに書き出すことができず、写真での保存のみ可能であった。そのため、QGIS上での比較ができなかったので、ibis Paint Xを使用して可能な限りで比較を行った。  
-まず、YAMAPとヤマレコは登山用のGPS記録アプリである
-SnowayはStravaの記録とほぼ一致しており、滑走距離や軌跡に大きな差は見られなかった。一方、YAMAPでは、Stravaとの比較において明確な一致・不一致の傾向は確認できず、評価が分かれる結果となった。yukiyamaについては、記録の取得において一部ラグが発生するケースがあり、記録の反映が正確ではなかったが、その発生原因は特定できなかった。   
+今回、研究対象とした、YAMAPとヤマレコは登山用のGPS記録アプリであり、gpxファイルとしてgpsログを書き出せるため、使用した。QGIS上で、同時に取得したStravaのデータと比較すると、ラグが発生した形跡は見受けられなかったが、ヤマレコから取得できたデータはどれも精度が低かった。  
+<img width="778" height="747" alt="Screenshot 2026-01-31 at 20 32 38" src="https://github.com/user-attachments/assets/85cc2e5c-c116-4caa-b261-ae015865a8d8" />  
+ （ピンク：ヤマレコ、黄：Strava）  
 
 さらに、滑走記録の取得に協力した被験者に対して実施した利用者アンケートでは、記録アプリの主な使用目的として最も多く挙げられたのは「行動ログ（ルート・時間）の記録」と「データを研究・解析に使用するため」であった。次いで、「滑走距離や標高差などの数値把握」、「後から自分の行動を振り返るため」、「データの保存・蓄積」、「SNS投稿・可視化のため」といった回答が得られた。これらのデータを基にして、各アプリの機能性を表に表した。  
 [機能比較表(Google spread sheet)](https://docs.google.com/spreadsheets/d/1hCDdRGlvCwX-Mu-Dsu0GHkaDBXXN0r29CYbYpgarRcE/edit?usp=sharing)
