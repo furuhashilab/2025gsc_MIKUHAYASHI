@@ -41,7 +41,9 @@ yukiyama、Snowayに関しては、アプリ上に滑走データをgpxファイ
 <img width="768" height="622" alt="Screenshot 2026-01-31 at 22 59 40" src="https://github.com/user-attachments/assets/7fadfa95-753d-4fab-a5ed-a5ff6833c74f" />  
 （黒：Ski buddy、黄：Strava）  
 
-日本のアプリである、yukiyama、Snowayは、アプリの機能に滑走データをgpxファイルに書き出すことができず、写真での保存のみ可能であった。そのため、QGIS上での比較ができなかったので、ibis Paint Xを使用して可能な限りで比較を行った。実際に比較すると、yukiyamaアプリより、Snowayアプリの方が記録の精度が高いことがわかった。しかし、yukiyamaアプリはアプリ上の設定で、一本ずつの計測ができず、一度スキー場にログインして計測を開始すると、同日に何度チェックアウトをしようが、新たな記録として記録することができないことがわかった。  
+日本のアプリである、yukiyama、Snowayは、アプリの機能に滑走データをgpxファイルに書き出すことができず、写真での保存のみ可能であった。そのため、QGIS上での比較ができなかったので、ibis Paint Xを使用して可能な限りで比較を行った。実際に比較すると、yukiyamaアプリより、Snowayアプリの方が記録の精度が高いことがわかった。しかし、yukiyamaアプリはアプリ上の設定で、一本ずつの計測ができず、一度スキー場にログインして計測を開始すると、同日に何度チェックアウトをしようが、新たな記録として記録することができないことがわかり、比較が困難であった。  
+<img width="2212" height="910" alt="Untitled1_20260206224746" src="https://github.com/user-attachments/assets/db7635c0-abf9-421e-9569-cb8cfeb76095" />  
+
 今回、研究対象とした、YAMAPとヤマレコは登山用のGPS記録アプリであり、gpxファイルとしてgpsログを書き出せるため、使用した。QGIS上で、同時に取得したStravaのデータと比較すると、ラグが発生した形跡は見受けられなかったが、ヤマレコから取得できたデータはどれも精度が低かった。  
 <img width="778" height="747" alt="Screenshot 2026-01-31 at 20 32 38" src="https://github.com/user-attachments/assets/85cc2e5c-c116-4caa-b261-ae015865a8d8" />  
  （ピンク：ヤマレコ、黄：Strava）  
